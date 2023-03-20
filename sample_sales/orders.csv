@@ -1,0 +1,17 @@
+order_id,product_id,customer_id,unit,payment_mode,amount
+1,101,201,1,Credit card,100
+1,102,201,1,Credit card,80
+2,105,202,2,UPI,180
+2,104,202,4,UPI,580
+2,101,202,3,UPI,300
+3,103,201,5,Credit card,300
+4,102,203,10,Cash,800
+5,104,203,5,Card,725
+6,105,203,7,Card,630
+7,106,201,5,Cash,500
+8,103,202,8,Cash,480
+8,102,202,8,Card,640
+9,101,203,9,UPI,900
+9,103,203,4,UPI,240
+9,105,203,6,UPI,540
+10,106,202,9,Credit card,900
